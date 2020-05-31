@@ -14,3 +14,5 @@ Create mirojs sketchpad:
     );
 
 The element passed to `Miro.create` must already exist.
+
+Live example at [https://xikka.com/toys/mirojs/](https://xikka.com/toys/mirojs/).
