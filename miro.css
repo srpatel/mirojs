@@ -1,3 +1,8 @@
+.miro-wrapper * {
+	margin: 0;
+	padding: 0;
+}
+
 .miro-wrapper {
   width: 500px;
   margin: 20px auto;
